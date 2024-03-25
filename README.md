@@ -1,6 +1,6 @@
 # 2024TidyTuesday
 
-## [Week 11] (https://github.com/sndaba/2024TidyTuesday/tree/main/week11) [Fiscal Sponsors](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-03-12/readme.md)
+## [Week 11](https://github.com/sndaba/2024TidyTuesday/tree/main/week11) [Fiscal Sponsors](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-03-12/readme.md)
 ![2024week11TidyTuesday](https://github.com/sndaba/2024TidyTuesday/assets/53818579/77cbe6a7-288e-4682-a008-fb67ce372184)
 
 
