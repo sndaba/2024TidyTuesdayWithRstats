@@ -7,12 +7,6 @@ library(showtextdb)
 library(showtext)
 
 font_add(family = "super", "SuperRugged-4nBy9.ttf")
-font_add(family = "whiteTrashReg", "CfWhiteTrashRegular-rqoO.ttf")
-font_add(family = "catbrotherwow", "Catbrother-wowl8.otf")
-font_add(family = "trashhand", "Trashhand-A5y7.ttf")
-font_add(family = "catbrother70", "Catbrother-709PR.ttf")
-font_add(family = "trashfort", "Trashfort-vmAX7.ttf")
-font_add(family = "ultimatesavage", "UltimateSavage-m2WYa.ttf")
 showtext_auto()
 
 
