@@ -1,4 +1,4 @@
-# 2024TidyTuesday
+# 2024 Tidy Tuesday with R programming.
 [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday?tab=readme-ov-file) is a weekly project with datasets provided to generate data visualisation using different software tools like, Tableau, Observable Plot, PowerBI, Python and R.
 
 This repository of Tidy Tuesday dataviz is generated using R programming.
