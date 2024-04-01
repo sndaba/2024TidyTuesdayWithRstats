@@ -3,6 +3,9 @@
 
 This repository of Tidy Tuesday dataviz is generated using R programming.
 
+## [Week 13](https://github.com/sndaba/2024TidyTuesdayWithRstats/tree/main/week13) - [NCAA Men's March Madness](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-03-26/readme.md)
+![Rplot](https://github.com/sndaba/2024TidyTuesdayWithRstats/assets/53818579/a0c41f9c-f583-4588-841e-97ab8bd8a167)
+
 ## [Week 12](https://github.com/sndaba/2024TidyTuesdayWithRstats/tree/main/week12) - [Mutant MoneyBall](https://github.com/EliCash82/mutantmoneyball)
 ![2024TidyTuesdayweek12](https://github.com/sndaba/2024TidyTuesdayWithRstats/assets/53818579/ace97adb-47b0-4142-9d58-819dde2a3ed7)
 
