@@ -3,6 +3,9 @@
 
 This repository of Tidy Tuesday dataviz is generated using R programming.
 
+## [Week 14](https://github.com/sndaba/2024TidyTuesdayWithRstats/tree/main/week14) - [Du Bois Visualization Challenge 2024-week 10](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-04-02/readme.md)
+![2024TidyTuesdayweek14](https://github.com/sndaba/2024TidyTuesdayWithRstats/assets/53818579/e5b7028a-3960-4500-9c51-3cfd0232828d)
+
 ## [Week 13](https://github.com/sndaba/2024TidyTuesdayWithRstats/tree/main/week13) - [NCAA Men's March Madness](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-03-26/readme.md)
 ![Rplot](https://github.com/sndaba/2024TidyTuesdayWithRstats/assets/53818579/a0c41f9c-f583-4588-841e-97ab8bd8a167)
 
